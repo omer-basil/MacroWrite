@@ -8,7 +8,7 @@ Built with modern web technologies such as the Laravel PHP framework, Blade temp
 Features
 </h2>
 <p>
-<strong>User interaction with publications:<strong> Users can interact with the publications on the website by commenting, replying, giving a like or dislike on the articles.
+<strong>User interaction with publications:</strong> Users can interact with the publications on the website by commenting, replying, giving a like or dislike on the articles.
 
 <strong>Magazine creation for publishing blogs:</strong> Users can create their own magazines and publish their own blogs within them. This feature allows for a more organized and personalized experience for users.
 
