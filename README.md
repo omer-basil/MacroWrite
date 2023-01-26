@@ -22,7 +22,7 @@ Features
 Technology Stack
 </h2>
 <ul>
-<li>Laravel:</strong> MacroWrite is built on the Laravel PHP framework. Laravel provides an elegant and modern syntax for writing web applications and offers a range of tools and features for building robust and scalable web applications such as routing, middleware, eloquent ORM, etc.</li>
+<li><strong>Laravel:</strong> MacroWrite is built on the Laravel PHP framework. Laravel provides an elegant and modern syntax for writing web applications and offers a range of tools and features for building robust and scalable web applications such as routing, middleware, eloquent ORM, etc.</li>
 
 <li>Blade:</strong> MacroWrite uses the Blade templating engine to simplify the process of creating and maintaining the views of the website. Blade allows for easy separation of concerns between the application logic and the presentation layer, and it offers several useful directives and template inheritance.</li>
 
